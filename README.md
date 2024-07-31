@@ -4,6 +4,7 @@
 <br>
 
 - 🌱 I'm currently learning **C, C++, Assembly, and more**
+- 👀 Would like to know more about **AI, Cybersecurity, OS,...**
 <br>
 
 # GitHub Stats
