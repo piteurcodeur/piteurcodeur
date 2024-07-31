@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
-<h3 align="center">French student engineer, I'm learning embedded systems, but i'm interested in every programming language !</h3>
+<h3 align="center">A French student engineer, I'm learning embedded systems, and i'm interested in every programming language !</h3>
 
 - 🌱 I'm currently learning **C, C++, Assembly, and more**
 
