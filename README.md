@@ -39,10 +39,10 @@
 # GitHub Stats
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=piteurcodeur&show_icons=true&theme=radical" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piteurcodeur&show_icons=true&theme=transparent" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piteurcodeur&layout=compact&theme=radical" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piteurcodeur&layout=compact&theme=transparent" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piteurcodeur&theme=radical" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piteurcodeur&theme=transparent" alt="piteurcodeur" style="width: 50%; margin: 0 1%;" />
   <br>
 </p>
